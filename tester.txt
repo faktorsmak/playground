@@ -6,3 +6,5 @@ adding another line on my first new branch
 Change made by corey on branch
 
 changes on foo branch
+
+changes on bar
